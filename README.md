@@ -10,7 +10,7 @@ This repository will house the Pandas homework assignment due on December 12, 20
 ### Images
 * Where all images within this summary markdown file will be stored
 ### .ipynb_checkpoints 
-* *Ignore
+* *Ignore*
 
 # Heroes of Pymoli : Assignment Details & Summary
 ![HeroesofPymoli](https://github.com/shadeetabasi/pandas-challenge/blob/main/Images/Fantasy.png)
