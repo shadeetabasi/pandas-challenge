@@ -17,11 +17,13 @@ This repository will house the Pandas homework assignment due on December 12, 20
 
 ### Player Count
 ![PlayerCount](https://github.com/shadeetabasi/pandas-challenge/blob/main/Images/Player%20Count.png)
-There are a total of 576 within the data collected.
+
+There are a total of 576 unique players who purchased items within the data collected.
 
 ## Purchasing Analysis (Total)
 ![PurchasingAnalysisTotal](https://github.com/shadeetabasi/pandas-challenge/blob/main/Images/Purchasing%20Analysis%20-%20Total.png)
-Total revenue for the period came out to $2,379.77 across 780 purchase. The average purchase price was $3.05.
+
+The total revenue for the period came out to $2,379.77 across 780 purchases. The average purchase price was $3.05.
 
 ## Gender Demographics
 ![GenderDemographics](https://github.com/shadeetabasi/pandas-challenge/blob/main/Images/Gender%20Demographics.png)
