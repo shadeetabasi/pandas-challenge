@@ -4,7 +4,8 @@ This repository will house the Pandas homework assignment due on December 12, 20
 ## Files and directories within this repository include:
 
 ### Heroes of Pymoli
-* HeroesOfPymoli_starter.ipynb
+* HeroesOfPymoli_starter.ipynb (**PLEASE NOTE:** This is the actual notebook where I worked through the code. It works fine in Jupyter Notebooks, but is displaying oddly in Github)
+* HeroesOfPymoli_starter.html (**PLEASE NOTE:** This .html file displays better in GitHub than the the .ipynb file, so including it just in case.)
 * Resources
   * purchase_data.csv
 ### Images
