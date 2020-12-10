@@ -43,7 +43,7 @@ This repository will house the Pandas homework assignment due on December 12, 20
 ## Purchasing Analysis (by Age Group)
 ![PurchasingAnalysisbyGender](https://github.com/shadeetabasi/pandas-challenge/blob/main/Images/Purchasing%20Analysis%20-%20by%20Age%20Group.png)
 
-* While players within the 20-24 age group account for greatest total purchase value, those between the ages of 35-39 have the highest average purchase price.
+* While players within the 20-24 age group account for the greatest total purchase value, those between the ages of 35-39 have the highest average purchase price - meaning that they are likely willing to spend more on a purchase.
 
 ## Top Spenders
 ![TopSpenders](https://github.com/shadeetabasi/pandas-challenge/blob/main/Images/Top%20Spenders.png)
