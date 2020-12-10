@@ -17,27 +17,29 @@ This repository will house the Pandas homework assignment due on December 12, 20
 
 ### Player Count
 ![PlayerCount](https://github.com/shadeetabasi/pandas-challenge/blob/main/Images/Player%20Count.png)
+There are a total of 576 within the data collected.
 
-### Purchasing Analysis (Total)
+## Purchasing Analysis (Total)
 ![PurchasingAnalysisTotal](https://github.com/shadeetabasi/pandas-challenge/blob/main/Images/Purchasing%20Analysis%20-%20Total.png)
+Total revenue for the period came out to $2,379.77 across 780 purchase. The average purchase price was $3.05.
 
-### Gender Demographics
+## Gender Demographics
 ![GenderDemographics](https://github.com/shadeetabasi/pandas-challenge/blob/main/Images/Gender%20Demographics.png)
 
-### Purchasing Analysis (by Gender)
+## Purchasing Analysis (by Gender)
 ![PurchasingAnalysisbyGender](https://github.com/shadeetabasi/pandas-challenge/blob/main/Images/Purchasing%20Analysis%20-%20by%20Gender.png)
 
-### Age Demographics
+## Age Demographics
 ![AgeDemographics](https://github.com/shadeetabasi/pandas-challenge/blob/main/Images/Age%20Demographics.png)
 
-### Purchasing Analysis (by Age Group)
+## Purchasing Analysis (by Age Group)
 ![PurchasingAnalysisbyGender](https://github.com/shadeetabasi/pandas-challenge/blob/main/Images/Purchasing%20Analysis%20-%20by%20Age%20Group.png)
 
-### Top Spenders
+## Top Spenders
 ![TopSpenders](https://github.com/shadeetabasi/pandas-challenge/blob/main/Images/Top%20Spenders.png)
 
-### Most Popular Items
+## Most Popular Items
 ![MostPopularItems](https://github.com/shadeetabasi/pandas-challenge/blob/main/Images/Most%20Popular%20Items.png)
 
-### Most Profitable Items
+## Most Profitable Items
 ![MostProfitableItems](https://github.com/shadeetabasi/pandas-challenge/blob/main/Images/Most%20Profitable%20Items.png)
