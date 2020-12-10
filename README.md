@@ -4,13 +4,13 @@ This repository will house the Pandas homework assignment due on December 12, 20
 ## Files and directories within this repository include:
 
 ### Heroes of Pymoli
-* HeroesOfPymoli_starter.ipynb (**PLEASE NOTE:** This is the actual notebook where I worked through the code. It works fine in Jupyter Notebooks, but is displaying oddly in Github)
+* HeroesOfPymoli_starter.ipynb (**PLEASE NOTE:** This is the actual notebook where I worked through the code. It works fine in Jupyter Notebooks, but is displaying oddly in Github as of 12/10/2020)
 * Resources Folder
   * purchase_data.csv
 ### Images
 * Where all images within this summary markdown file will be stored
 ### .ipynb_checkpoints 
-* Ignore
+* *Ignore
 
 # Heroes of Pymoli : Assignment Details & Summary
 ![HeroesofPymoli](https://github.com/shadeetabasi/pandas-challenge/blob/main/Images/Fantasy.png)
